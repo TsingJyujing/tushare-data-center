@@ -65,3 +65,7 @@ pg_restore -h 127.0.0.1 -p 5432 -U postgres -W -d stockdata "/root/stockdata.bac
 ```
 
 ### 定时任务信息
+```
+25 12   * * *   root    python3 /root/data_appender.py stock_5min_tick 5 3
+25 12   * * 6   root    python3 /root/data_appender.py stock_daily_tick D 10
+```
