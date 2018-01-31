@@ -17,6 +17,11 @@ PostgreSQL连接信息：
 注意每个月一共有1000GB流量的限制，到达975GB的时候我会关闭postgresql对外访问的接口来保护能正常访问服务器。
 尽量只取自己要用的数据，数据每日更新的，每天都打包下载没意思……
 
+pgAdmin网页版
+- 地址：http://pgadmin.lovezhangbei.top
+- 用户名：tusharer
+- 密码：tushare@979323
+
 
 ## `data_appender.py` 使用说明
 
