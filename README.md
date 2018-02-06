@@ -19,7 +19,7 @@ PostgreSQL连接信息：
 
 pgAdmin网页版
 - 地址：http://pgadmin.lovezhangbei.top
-- 用户名：tusharer
+- 用户名：tusharer@163.com
 - 密码：tushare@979323
 
 
